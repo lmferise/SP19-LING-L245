@@ -9,6 +9,3 @@ text = sys.stdin.read()
 
 # Output everything to standard output
 sys.stdout.write(text)
-
-for c in sys.stdin.read(text):
-    print(c)

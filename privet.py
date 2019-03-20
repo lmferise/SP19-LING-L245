@@ -1,3 +1,3 @@
 import sys
 
-sys.stdout.write('مرحبا!')
+sys.stdout.write('Привет мир!')
